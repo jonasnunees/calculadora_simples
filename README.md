@@ -109,14 +109,6 @@ No momento de calcular:
 
 ---
 
-## 📸 Screenshot
-
-```markdown
-![Screenshot da Calculadora](./screenshot.png)
-```
-
----
-
 ## 🔧 Possíveis Melhorias Futuras
 
 Algumas ideias para evoluir o projeto:
